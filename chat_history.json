@@ -1,0 +1,22 @@
+{
+    "You": [
+        "hello",
+        "hello",
+        "how are you",
+        "hello",
+        "how are you",
+        "waht are you doing",
+        "what are you doing",
+        "hello"
+    ],
+    "Chatbot": [
+        "Hi there! How can I assist you today?",
+        "Hi there! How can I assist you today?",
+        "I'm good, thank you! How about you?",
+        "Hi there! How can I assist you today?",
+        "I'm good, thank you! How about you?",
+        "I'm sorry, I didn't understand that. Can you please rephrase?",
+        "I'm here to assist you! How can I help?",
+        "Hi there! How can I assist you today?"
+    ]
+}
