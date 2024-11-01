@@ -1,3 +1,5 @@
+#Updated Version of Easy_Wav2Lip
+
 ## Easier:
 * Simple setup and execution - locally and via colab.
      * no messing around manually downloading and installing prerequesits
