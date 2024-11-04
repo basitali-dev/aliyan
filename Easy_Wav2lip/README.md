@@ -42,7 +42,7 @@ Easy-Wav2Lip fixes visual bugs on the lips:
 ### Google Colab:
 [https://github.com/Tabi1231](https://colab.research.google.com/github/anothermartz/Easy-Wav2Lip/blob/v8.3/Easy_Wav2Lip_v8.3.ipynb)
 
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/anothermartz/Easy-Wav2Lip/blob/v8.3/Easy_Wav2Lip_v8.3.ipynb)
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/106SNBf6WnI7a5zzOc7lE5qXtEzpfIYFO)
 
 ## Local Installation:
 Requirements:
